@@ -43,7 +43,6 @@ Kanban-Task-Manager/
 
 ## 📸 Preview
 
-> Add screenshots or a short GIF here.
 
 Example:
 
